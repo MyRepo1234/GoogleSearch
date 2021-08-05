@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="QAacademy.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="ValidatingTitle of the page(failed)">
+    <classes>
+      <class name="QAacademy.ValidationTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="browserDetails"/>
+        </methods>
+      </class> <!-- QAacademy.ValidationTest -->
+      <class name="QAacademy.ValidationTitle">
+        <methods>
+          <include name="titleValidation"/>
+          <include name="browserDetails"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- QAacademy.ValidationTitle -->
+    </classes>
+  </test> <!-- ValidatingTitle of the page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,5 @@
+13:48:16.142 [TestNG] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 91.0.4472.101 found in cache
+13:48:16.145 [TestNG] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+17:58:09.084 [main] INFO  QAacademy.ValidationTitle - Initialize driver
+17:59:25.590 [main] INFO  QAacademy.ValidationTitle - Initialize driver
+17:59:27.078 [main] INFO  QAacademy.ValidationTitle - successfully show the headersection

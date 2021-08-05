@@ -1,0 +1,7 @@
+18:06:46.058 [main] INFO  QAacademy.ValidationTitle - Initialize driver
+18:06:46.943 [main] INFO  QAacademy.ValidationTitle - successfully show the headersection
+00:11:34.889 [main] INFO  QAacademy.ValidationTest - Initialize driver
+00:11:51.023 [main] INFO  QAacademy.ValidationTest - successfully click on loginlink
+00:11:52.007 [main] INFO  QAacademy.ValidationTest - nonrestricted user
+00:12:10.565 [main] INFO  QAacademy.ValidationTest - successfully click on loginlink
+00:12:10.841 [main] INFO  QAacademy.ValidationTest - restricted user
